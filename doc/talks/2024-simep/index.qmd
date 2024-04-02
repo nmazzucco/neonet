@@ -6,7 +6,7 @@ author:
     affiliation: 
       - id: uo
         name: <span style="font-size:16pt">University of Oxford</span>
-  - name: Name Surname
+  - name: Niccolò Mazzucco
     affiliation: 
       - id: xx
         name: <span style="font-size:16pt">Affiliation</span>
